@@ -1,0 +1,22 @@
+{
+  "name": "webduino-bit-module-servo",
+  "description": "🔌 Block Module for Servo of Webduino:bit",
+  "main": "BitServo-blockly.js",
+  "authors": [
+    "sheng <karokya@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "arduino",
+    "webduino",
+    "servo"
+  ],
+  "homepage": "https://github.com/webduinoio/webduino-bit-module-servo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
